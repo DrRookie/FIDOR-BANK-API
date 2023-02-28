@@ -6,7 +6,7 @@ import json
 import extraFunction
 import datetime
 import random
-#importing the economic calender package and loggin to see the sample 
+#importing the economic calender package and login to see the sample 
 import tradingeconomics as te
 te.login()
 
