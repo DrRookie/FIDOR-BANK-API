@@ -1,3 +1,3 @@
 # FIDOR-BANK-API
-Open Banking Web Application Development
-Open the master branch to see source code
+Open Banking Web Application Development <br>
+<i>Open the master branch to see source code</i>
